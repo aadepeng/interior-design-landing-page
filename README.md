@@ -1,6 +1,6 @@
 # interior-design-landing-page
 
->Live Link : [Interior Design](https://google.com)
+>Live Link : [Interior Design](https://interiorlanding-page.netlify.app/)
 
 >This site should look like this - 
 ![Pic](https://raw.githubusercontent.com/aadepeng/interior-design-landing-page/main/Interior%20Design%20Landing%20Page.png)
