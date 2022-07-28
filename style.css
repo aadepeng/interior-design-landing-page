@@ -1,0 +1,174 @@
+html{
+    background-image: url("/images/bkimg.png");
+    /* background-image: linear-gradient(rgba(0, 0, 0, 0.527),rgba(0, 0, 0, 0.5)), url("/images/adam-winger-t4oVP2xFMJ8-unsplash.jpg"); */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+}
+
+nav{
+    display: flex;
+    justify-content:space-around;
+}
+.logo{
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    margin: 0;
+}
+nav > :nth-child(1){
+    margin-top: 20px;
+}
+.nav-items{
+    display: flex;
+    margin-left: 200px;
+}
+.nav-item{
+    margin-left: 60px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+}
+
+.contact-info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact-info > :nth-child(1){
+margin-right: 10px;
+margin-left: 110px;
+}
+.phone-img{
+    height: 40px;
+}
+.contact-details{
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    
+}
+h4{
+    margin: 4px;
+}
+.divider{
+    float: right;
+    background-color: #FFFFFF;
+    margin-right: 50px;
+    height: 2px;
+    width: 66%;
+}
+
+.left-section{
+    font-family: 'Montserrat', sans-serif;
+    color: #FFFFFF;
+    font-size: 60px;
+    display: inline-block;
+    margin-right: 800px;
+    position: relative;
+    left: 100px;
+    top:100px;
+}
+.learnmore-btn{
+    background-color: transparent;
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 15px 40px;
+    border-radius: 50px;
+    border: 2px solid #FFFFFF;
+    position: relative;
+    top: 150px;
+    cursor: pointer;
+    left: 100px;
+}
+
+.card1{
+    background-color: rgba(255, 255, 255, 0.342);
+    width: 300px; 
+    float: right;
+    position: relative;
+    bottom: 300px;
+    right: 100px;
+    
+
+}
+.puzzle-icon{
+    background-color: #FFFFFF;
+    padding: 5px 25px;
+    border-radius: 50px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.card1 > :nth-child(2){
+    color: #FFFFFF;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    margin-right: 10px;
+    
+}
+.divider1{
+    background-color: #FFFFFF;
+    height: 90px;
+    width: 2px;
+    float: right;
+    position: relative;
+    left: 100px;
+    bottom: 180px;
+}
+
+.dot1{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    margin: auto 20px;
+    background-color: #FFFFFF;
+    float: right;
+    position: relative;
+    left: 135px;
+    bottom: 90px;
+}    
+.card2{
+    background-color: rgba(255, 255, 255, 0.342);
+    width: 300px; 
+    float: right;
+    position: relative;
+    top: 100px;
+}
+
+.bulb-icon{
+    background-color: #FFFFFF;
+    padding: 5px 25px;
+    border-radius: 50px;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+.card2 > :nth-child(2){
+    color: #FFFFFF;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    margin-right: 20px;
+}
+.divider2{
+    background-color: #FFFFFF;
+    height: 2px;
+    width: 90px;
+    float: right;
+    position: relative;
+    left: 90px;
+    bottom: 80px;
+}
+.dot2{
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    margin: auto 20px;
+    background-color: #FFFFFF;
+    float: right;
+    position: relative;
+    left: 200px;
+    bottom: 90px;
+}
