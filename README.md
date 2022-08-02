@@ -1,4 +1,4 @@
-# interior-design-landing-page
+# Interior Design Landing Page
 
 >Live Link : [Interior Design](https://interiorlanding-page.netlify.app/)
 
